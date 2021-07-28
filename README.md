@@ -45,3 +45,13 @@ Input:
 	- n: 3
 Expected output:
 	- ['ACC143', 'ACC214', 'ACC312']
+
+How to run it:
+
+```cd lendable/```
+
+```python app.py transaction_data_1.csv 1```
+
+```python app.py transaction_data_2.csv 2```
+
+```python app.py transaction_data_3.csv 3```
